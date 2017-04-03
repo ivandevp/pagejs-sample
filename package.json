@@ -1,0 +1,18 @@
+{
+  "name": "pagejs-example",
+  "version": "1.0.0",
+  "description": "Page.js example",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "page.js",
+    "superagent"
+  ],
+  "author": "Ivan Medina <medinadiazivan@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
